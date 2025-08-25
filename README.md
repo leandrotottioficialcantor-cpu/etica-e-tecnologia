@@ -45,6 +45,6 @@ O algoritmo, treinado com dados históricos de contratações majoritariamente m
 ---
 
 ## 📂 Relatório Completo  
-📄 [Clique aqui para acessar o PDF](COLOQUE_O_LINK_AQUI)  
+📄 [Clique aqui para acessar o PDF](https://github.com/leandrotottioficialcantor-cpu/etica-e-tecnologia/blob/main/Experi%C3%AAncia%20Pr%C3%A1tica%20-%20%C3%89tica%2C%20e%20Cidadania%20Digital%20e%20Direitos%20III%20.pdf)  
 
 ---
